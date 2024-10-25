@@ -9,3 +9,4 @@ INPUT -> CONV -> ReLU -> POOL -> CONV -> Relu -> POOL -> FLATTEN -> FC -> DO -> 
 FC = Fully Connected Layer
 DO = Dropout Regularization
 
+Note : I have not provided dataset link because we are directly downloading it through kagglehub during runtime and preprocessing it  ( I prefer this method to manually downloading it locally )
