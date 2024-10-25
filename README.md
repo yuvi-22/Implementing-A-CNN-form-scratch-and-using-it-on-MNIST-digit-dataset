@@ -4,7 +4,7 @@ libraries used : kagglehub, tensorflow, matplotlib
 
 ### CNN architecture : 
 
-INPUT -> CONV -> ReLU -> POOL -> CONV -> Relu -> POOL -> FLATTEN -> FC -> DO -> FC -> OUTPUT (with softmax activation)
+INPUT -> CONV -> ReLU -> POOL -> CONV -> ReLU -> POOL -> FLATTEN -> FC -> DO -> FC -> OUTPUT (with softmax activation)
 
 FC = Fully Connected Layer     
 DO = Dropout Regularization
